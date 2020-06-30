@@ -1,0 +1,11 @@
+.headerr {
+    max-width: 100% !important;
+    background-image: url("img/1920x1080/01.jpg");
+    height: 95vh !important;
+    width: 100% !important;
+}
+
+.inform {
+    margin-top: 25%;
+    min-height: 50%;
+}
