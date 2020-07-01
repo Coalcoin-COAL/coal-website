@@ -1,12 +1,16 @@
+
+
 .headerr {
     max-width: 100% !important;
-    background-image: url("img/1920x1080/01.jpg");
-    height: 95vh !important;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("img/black-close-up-coal-dark-46801.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh !important;
     width: 100% !important;
 }
 
 .inform {
-    margin-top: 25%;
+    margin-top: 24%;
     min-height: 50%;
 }
 
