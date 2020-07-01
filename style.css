@@ -10,10 +10,18 @@
 }
 
 .inform {
-    margin-top: 24%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
     min-height: 50%;
 }
 
 .logo-img {
     width: 70px !important;
+}
+
+.col-md-4 {
+    padding: 0 !important;
 }
